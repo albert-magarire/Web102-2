@@ -36,3 +36,93 @@
     transform: rotate(360deg);
   }
 }
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ecebeb;
+  margin: 0;
+  padding: 0;
+}
+
+/* Flashcard app container */
+.flashcard-app {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Flashcard question */
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 80px;
+  margin: 10px auto;
+  max-width: 400px;
+  background-color: rgba(150, 149, 149, 0.43);
+  box-shadow: 0 4px 6px rgba(138, 135, 135, 0.63);
+  transition: background-color 1.0s ease;
+}
+
+.card:hover {
+  background-color: #fff;
+}
+
+.card:active {
+  background-color: rgba(49, 13, 13, 0.43);
+}
+
+.card-div {
+  perspective: 1000px;
+}
+
+.card-div:active {
+  transform: rotateY(360deg);
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Flashcard buttons */
+button {
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Flashcard title */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #292b2c;
+}
+
+/* Flashcard description */
+p {
+  font-size: 30px;
+  color: #000000;
+}
+
+/* Flashcard image */
+.card-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+  .card {
+    max-width: 90%;
+  }
+}
+
+
