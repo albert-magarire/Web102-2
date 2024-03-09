@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/a/ZrfagdX)
+[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/gallery/hUXMCF5)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
