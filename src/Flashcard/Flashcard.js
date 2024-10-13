@@ -10,6 +10,7 @@ const Flashcard = ({ card, onNext, onBack, onMaster, onShuffle, onSubmitGuess, f
         setGuess(''); // Clear the input after submitting guess
     };
 
+    // This file contains all the HTML for the page
     return (
         <div className="flashcard-container">
             <div className={`flashcard ${showAnswer ? 'is-flipped' : ''}`} onClick={() => setShowAnswer(!showAnswer)}>
