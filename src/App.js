@@ -10,7 +10,7 @@ const App = () => {
         { id: 3, front: 'Italy', back: 'Rome' },
         { id: 4, front: 'Spain', back: 'Madrid' },
         { id: 5, front: 'United Kingdom', back: 'London' },
-        { id: 6, front: 'Zimbabwe', back: 'Harare' }, // that's where I come from by the way
+        { id: 6, front: 'Zimbabwe', back: 'Harare' }, // My country😍
         { id: 7, front: 'South Africa', back: 'Pretoria' },
         { id: 8, front: 'Botswana', back: 'Gaborone' },
         { id: 9, front: 'Canada', back: 'Toronto' },
