@@ -1,6 +1,6 @@
 # Web Development Project 3 - *Country Capital Quiz*
 
-Submitted by: **Betserai Albert Magarire**
+Submitted by: **Albert Magarire**
 
 This web app: **uses flashcards to help in quizing the capitals of different countries**
 
