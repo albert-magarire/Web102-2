@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
 - [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
-The following **optional** features are implemented:
+The following **optional** features are implemented:-
 
 - [ ] A shuffle button is used to randomize the order of the cards
 - [x] A user's answer may be counted as correct even when it is slightly different from the target answer
